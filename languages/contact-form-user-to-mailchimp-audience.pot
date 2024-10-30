@@ -1,0 +1,148 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CF7 user TO MailChimp Audience\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-12 11:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.5.3"
+
+#: admin_menu.php:87 admin_menu.php:122
+msgid "Add"
+msgstr ""
+
+#: admin_menu.php:19 admin_menu.php:72
+msgid "Add new Audience"
+msgstr ""
+
+#: admin_menu.php:20 admin_menu.php:105
+msgid "Add new Subscriber to Audience"
+msgstr ""
+
+#: admin_menu.php:18 admin_menu.php:30
+msgid "Audience list"
+msgstr ""
+
+#: admin_menu.php:38
+msgid "CF7 Field"
+msgstr ""
+
+#: admin_menu.php:135
+msgid "CF7 fields can be"
+msgstr ""
+
+#: admin_menu.php:21 admin_menu.php:133
+msgid "CF7 Integration"
+msgstr ""
+
+#: admin_menu.php:134
+msgid "CF7 short code, with audience id"
+msgstr ""
+
+#: admin_menu.php:77
+msgid "City"
+msgstr ""
+
+#. Name of the plugin
+msgid "Contact Form user to Mailchimp Audience"
+msgstr ""
+
+#: admin_menu.php:34
+msgid "Count"
+msgstr ""
+
+#: admin_menu.php:80
+msgid "Country"
+msgstr ""
+
+#: admin_menu.php:22
+msgid "Credentials to API MailChimp"
+msgstr ""
+
+#: admin_menu.php:76 admin_menu.php:119
+msgid "E-Mail"
+msgstr ""
+
+#: admin_menu.php:117
+msgid "First Name"
+msgstr ""
+
+#: admin_menu.php:81
+msgid "From Name"
+msgstr ""
+
+#: admin_menu.php:35
+msgid "id"
+msgstr ""
+
+#: admin_menu.php:83
+msgid "Language (RU,EN,...)"
+msgstr ""
+
+#: admin_menu.php:118
+msgid "Last Name"
+msgstr ""
+
+#: admin_menu.php:148
+msgid "MailChimp API KEY"
+msgstr ""
+
+#: admin_menu.php:145
+msgid "MailChimp Credentials to API"
+msgstr ""
+
+#: admin_menu.php:33 admin_menu.php:75
+msgid "Name"
+msgstr ""
+
+#: admin_menu.php:37
+msgid "Perm. reminder"
+msgstr ""
+
+#: admin_menu.php:84
+msgid "Permis. reminder (text)"
+msgstr ""
+
+#: admin_menu.php:151
+msgid "Save"
+msgstr ""
+
+#: wm_cf7_userto_mchimp.php:52
+msgid "Settings"
+msgstr ""
+
+#: admin_menu.php:78
+msgid "State"
+msgstr ""
+
+#: admin_menu.php:36 admin_menu.php:82
+msgid "Subject"
+msgstr ""
+
+#. Author of the plugin
+msgid "superpuperlesha@gmail.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Transfer of users from Contact Form 7 to Mailchimp Audience."
+msgstr ""
+
+#: admin_menu.php:106
+msgid "User Added!"
+msgstr ""
+
+#: admin_menu.php:84
+msgid "Why did you receive this letter."
+msgstr ""
+
+#: admin_menu.php:79
+msgid "Zip"
+msgstr ""
